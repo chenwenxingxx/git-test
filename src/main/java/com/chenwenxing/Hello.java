@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("hello world2");
         System.out.println("dev");
         System.out.println("master");
+        System.out.println("dev2");
     }
 }
